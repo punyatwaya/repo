@@ -1,0 +1,57 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+div{
+    background-color:lightblue;
+    height: auto;
+    width: 20%;
+    border: 1px dashed;
+    color: brown;
+    border-radius: 10px;
+    padding: 10px 20px 30px 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+ .class
+        {
+            background-color:wheat;
+            height: auto;
+            width: 80px;
+            text-align: center;
+            border: 3px solid rgb(181, 15, 13);
+            border-radius: 10%;
+            color:black;
+            margin: 10px 30px 20px 50px ;
+            padding: 20px 80px 60px 40px;
+
+        }
+.class1
+        {
+            background-color: black;
+            height: auto;
+            width: 20px;
+            text-align: center;
+            border:4px solid;
+            border-radius: 10%;
+            color: aqua;
+            margin: 10px 30px 20px 50px;
+            display: flex;
+            padding: 20px 80px 40px 30px;
+        
+
+        }
+.cont{
+     background-color: black;
+            height: auto;
+            width: 400px;
+            text-align: center;
+            border:4px solid;
+            border-radius: 10%;
+            color: aqua;
+            margin: 10px 30px 20px 50px;
+            display: flex;
+            padding: 20px 80px 40px 30px;
+}
+
